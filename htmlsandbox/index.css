@@ -1,0 +1,22 @@
+body{
+  background-color: #bcbdbb;
+}
+
+
+h1{
+  color: #326913;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h2{
+
+  color: red;
+  text-align: center;
+}
+
+img{
+      width: 900px;
+      height: 900px;
+   
+}
